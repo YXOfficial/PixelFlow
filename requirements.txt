@@ -4,3 +4,4 @@ omegaconf
 diffusers==0.32.2
 transformers==4.48.0
 torchdiffeq==0.2.4
+gradio
